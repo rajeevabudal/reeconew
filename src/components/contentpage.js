@@ -100,7 +100,7 @@ export default function ContentPage() {
         <Space size="middle">
           <CheckOutlined onClick={() => handleCheck(record.id)} />
           <CloseOutlined onClick={()=>handleClose(record)} />
-          <a href="#">Edit</a>
+          <p>Edit</p>
         </Space>
       ),
     },
