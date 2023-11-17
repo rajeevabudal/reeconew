@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Button, Modal } from 'antd';
+import { Modal } from 'antd';
 import {useSelector, useDispatch} from "react-redux";
 import { getClosed, getStatusResult } from "./redux/orderSlice";
 const ModalPage = () => {

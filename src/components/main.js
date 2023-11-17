@@ -1,7 +1,7 @@
 import React from "react";
 import { Breadcrumb, Layout, Menu, theme } from "antd";
 import ContentPage from "./contentpage";
-const { Header, Content, Footer } = Layout;
+const { Header, Content } = Layout;
 
 function MainPage() {
   const {
