@@ -15,7 +15,7 @@ export default function ContentPage() {
   const dispatch = useDispatch();
   React.useEffect(() => {
     axios
-      .get("http://localhost:3004/tableData")
+      .get("https://orderservice-f0vs.onrender.com/tableData")
       .then((res) => {
         setData(res.data);
       })
