@@ -1,0 +1,27 @@
+{
+  "tableData": [
+    {
+      "id": 1,
+      "productName": "Chicken Breast fillets",
+      "brand": "Hormel Black Labelmany",
+      "price": 60.67,
+      "quantity": 0
+    },
+
+    {
+      "id": 2,
+      "productName": "Chicken Breast fillets",
+      "brand": "Hormel Black Labelmany",
+      "price": 63.67,
+      "quantity": 1
+    },
+
+    {
+      "id": 3,
+      "productName": "Chicken Breast fillets",
+      "brand": "Hormel Black Labelmany",
+      "price": 59.67,
+      "quantity": 10
+    }
+  ]
+}
